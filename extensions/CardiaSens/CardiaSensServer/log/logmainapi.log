@@ -1,0 +1,22 @@
+CardiaSens, version 1.0.0.0
+Log file created
+
+
+[INFO]:  Creation des donnees partagees.
+[INFO]:  fichier de configuration chargé avec succes!(54item(s) )
+[INFO]:  Lister les interfaces videos.
+[INFO]: Interfaces vidéos :
+[INFO]: ManyCam Virtual Webcam
+[INFO]: BisonCam, NB Pro
+[INFO]: Fin Interfaces vidéos.
+[INFO]: Obtenir signal depuis une webcam.
+[INFO]: Initialisation de l'interface vidéo o( 0 )avec succés
+[INFO]: Lancement du producteur signal
+[INFO]: Lancement du buffer
+[INFO]: Lancement du filtre
+[INFO]: Lancement du filtre
+[INFO]: Stop cardiasens
+[INFO]: fin de l'application
+
+0 warnings
+0 errors
